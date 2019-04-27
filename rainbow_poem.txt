@@ -1,0 +1,6 @@
+red
+orenge
+blue
+purpal
+
+This is a color in ranbow
