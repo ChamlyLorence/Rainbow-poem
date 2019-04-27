@@ -6,3 +6,4 @@ blue
 purpal
 
 This is a color in ranbow
+Add unicone to rainbow file
